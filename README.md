@@ -1,3 +1,3 @@
 # sample
 first git repository
-author-rohit
+author-rohit krishnan
